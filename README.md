@@ -1,5 +1,5 @@
 # Appsheet-Project
 BookShelf Pro
 
-Project Link - https://www.appsheet.com/start/0b63c4c8-2b6e-4d5c-b266-9494facbdc79
-Installation link - https://www.appsheet.com/newshortcut/0b63c4c8-2b6e-4d5c-b266-9494facbdc79
+Project Link - https://www.appsheet.com/start/7b5714ab-99ba-439f-a22e-f205bc39b6d8
+Installation link - https://www.appsheet.com/newshortcut/7b5714ab-99ba-439f-a22e-f205bc39b6d8
